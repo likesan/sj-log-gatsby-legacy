@@ -1,0 +1,184 @@
+## Created with gatsby-plugin-netlify
+
+/*
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+/component---cache-caches-gatsby-plugin-offline-app-shell-js-1af2b3b136460c4ee92c.js
+  Cache-Control: public, max-age=31536000, immutable
+/styles.69c8303230227041b58c.css
+  Cache-Control: public, max-age=31536000, immutable
+/styles-89fd2ae28bdf06750a71.js
+  Cache-Control: public, max-age=31536000, immutable
+/cd95ea5cbd2c605f26db819f07999610c9ff4310-8941a9711b07ddb33b58.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-not-found-template-js-53fa1056e3c1d193fd53.js
+  Cache-Control: public, max-age=31536000, immutable
+/1d7a0ef94f880d404b7312b89c0a6747f4e94bce-4ed62f7ff3996f4379b5.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-tags-list-template-js-241c9f6902d266477c23.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-categories-list-template-js-1cce05f951cf82ff7f76.js
+  Cache-Control: public, max-age=31536000, immutable
+/643651a62fb35a9bb4f20061cb1f214a352d7976-88b26420e8d25b9044bb.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-post-template-js-909ef3c8d499e96eaaa6.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-page-template-js-c74a0e341a7a6c5575b7.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-tag-template-js-082ad3c605c79d2140a4.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-category-template-js-24cb77a82e33bd885dc6.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-index-template-js-d417b387af9f10b98a44.js
+  Cache-Control: public, max-age=31536000, immutable
+/webpack-runtime-4e89f18828ab1c85b9f7.js
+  Cache-Control: public, max-age=31536000, immutable
+/framework-c1d6d4288731cc2755e9.js
+  Cache-Control: public, max-age=31536000, immutable
+/532a2f07-a3ad97a5f49049f824d9.js
+  Cache-Control: public, max-age=31536000, immutable
+/app-7ec19b46f12d9f6eb622.js
+  Cache-Control: public, max-age=31536000, immutable
+/static/*
+  Cache-Control: public, max-age=31536000, immutable
+/sw.js
+  Cache-Control: no-cache
+/sj-log/sj-log.github.io/offline-plugin-app-shell-fallback/
+  Link: </sj-log/sj-log.github.io/webpack-runtime-4e89f18828ab1c85b9f7.js>; rel=preload; as=script
+  Link: </sj-log/sj-log.github.io/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
+  Link: </sj-log/sj-log.github.io/framework-c1d6d4288731cc2755e9.js>; rel=preload; as=script
+  Link: </sj-log/sj-log.github.io/532a2f07-a3ad97a5f49049f824d9.js>; rel=preload; as=script
+  Link: </sj-log/sj-log.github.io/app-7ec19b46f12d9f6eb622.js>; rel=preload; as=script
+  Link: </sj-log/sj-log.github.io/component---cache-caches-gatsby-plugin-offline-app-shell-js-1af2b3b136460c4ee92c.js>; rel=preload; as=script
+  Link: </sj-log/sj-log.github.io/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </sj-log/sj-log.github.io/page-data/offline-plugin-app-shell-fallback/page-data.json>; rel=preload; as=fetch; crossorigin
+/sj-log/sj-log.github.io/404
+  Link: </sj-log/sj-log.github.io/webpack-runtime-4e89f18828ab1c85b9f7.js>; rel=preload; as=script
+  Link: </sj-log/sj-log.github.io/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
+  Link: </sj-log/sj-log.github.io/framework-c1d6d4288731cc2755e9.js>; rel=preload; as=script
+  Link: </sj-log/sj-log.github.io/532a2f07-a3ad97a5f49049f824d9.js>; rel=preload; as=script
+  Link: </sj-log/sj-log.github.io/app-7ec19b46f12d9f6eb622.js>; rel=preload; as=script
+  Link: </sj-log/sj-log.github.io/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
+  Link: </sj-log/sj-log.github.io/cd95ea5cbd2c605f26db819f07999610c9ff4310-8941a9711b07ddb33b58.js>; rel=preload; as=script
+  Link: </sj-log/sj-log.github.io/component---src-templates-not-found-template-js-53fa1056e3c1d193fd53.js>; rel=preload; as=script
+  Link: </sj-log/sj-log.github.io/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </sj-log/sj-log.github.io/page-data/404/page-data.json>; rel=preload; as=fetch; crossorigin
+/sj-log/sj-log.github.io/tags
+  Link: </sj-log/sj-log.github.io/webpack-runtime-4e89f18828ab1c85b9f7.js>; rel=preload; as=script
+  Link: </sj-log/sj-log.github.io/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
+  Link: </sj-log/sj-log.github.io/framework-c1d6d4288731cc2755e9.js>; rel=preload; as=script
+  Link: </sj-log/sj-log.github.io/532a2f07-a3ad97a5f49049f824d9.js>; rel=preload; as=script
+  Link: </sj-log/sj-log.github.io/app-7ec19b46f12d9f6eb622.js>; rel=preload; as=script
+  Link: </sj-log/sj-log.github.io/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
+  Link: </sj-log/sj-log.github.io/cd95ea5cbd2c605f26db819f07999610c9ff4310-8941a9711b07ddb33b58.js>; rel=preload; as=script
+  Link: </sj-log/sj-log.github.io/1d7a0ef94f880d404b7312b89c0a6747f4e94bce-4ed62f7ff3996f4379b5.js>; rel=preload; as=script
+  Link: </sj-log/sj-log.github.io/component---src-templates-tags-list-template-js-241c9f6902d266477c23.js>; rel=preload; as=script
+  Link: </sj-log/sj-log.github.io/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </sj-log/sj-log.github.io/page-data/tags/page-data.json>; rel=preload; as=fetch; crossorigin
+/sj-log/sj-log.github.io/categories
+  Link: </sj-log/sj-log.github.io/webpack-runtime-4e89f18828ab1c85b9f7.js>; rel=preload; as=script
+  Link: </sj-log/sj-log.github.io/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
+  Link: </sj-log/sj-log.github.io/framework-c1d6d4288731cc2755e9.js>; rel=preload; as=script
+  Link: </sj-log/sj-log.github.io/532a2f07-a3ad97a5f49049f824d9.js>; rel=preload; as=script
+  Link: </sj-log/sj-log.github.io/app-7ec19b46f12d9f6eb622.js>; rel=preload; as=script
+  Link: </sj-log/sj-log.github.io/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
+  Link: </sj-log/sj-log.github.io/cd95ea5cbd2c605f26db819f07999610c9ff4310-8941a9711b07ddb33b58.js>; rel=preload; as=script
+  Link: </sj-log/sj-log.github.io/1d7a0ef94f880d404b7312b89c0a6747f4e94bce-4ed62f7ff3996f4379b5.js>; rel=preload; as=script
+  Link: </sj-log/sj-log.github.io/component---src-templates-categories-list-template-js-1cce05f951cf82ff7f76.js>; rel=preload; as=script
+  Link: </sj-log/sj-log.github.io/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </sj-log/sj-log.github.io/page-data/categories/page-data.json>; rel=preload; as=fetch; crossorigin
+/sj-log/sj-log.github.io/404.html
+  Link: </sj-log/sj-log.github.io/webpack-runtime-4e89f18828ab1c85b9f7.js>; rel=preload; as=script
+  Link: </sj-log/sj-log.github.io/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
+  Link: </sj-log/sj-log.github.io/framework-c1d6d4288731cc2755e9.js>; rel=preload; as=script
+  Link: </sj-log/sj-log.github.io/532a2f07-a3ad97a5f49049f824d9.js>; rel=preload; as=script
+  Link: </sj-log/sj-log.github.io/app-7ec19b46f12d9f6eb622.js>; rel=preload; as=script
+  Link: </sj-log/sj-log.github.io/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
+  Link: </sj-log/sj-log.github.io/cd95ea5cbd2c605f26db819f07999610c9ff4310-8941a9711b07ddb33b58.js>; rel=preload; as=script
+  Link: </sj-log/sj-log.github.io/component---src-templates-not-found-template-js-53fa1056e3c1d193fd53.js>; rel=preload; as=script
+  Link: </sj-log/sj-log.github.io/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </sj-log/sj-log.github.io/page-data/404.html/page-data.json>; rel=preload; as=fetch; crossorigin
+/sj-log/sj-log.github.io/posts/How-to-solve-No-Xcode-or-CLT-version-detected-error
+  Link: </sj-log/sj-log.github.io/webpack-runtime-4e89f18828ab1c85b9f7.js>; rel=preload; as=script
+  Link: </sj-log/sj-log.github.io/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
+  Link: </sj-log/sj-log.github.io/framework-c1d6d4288731cc2755e9.js>; rel=preload; as=script
+  Link: </sj-log/sj-log.github.io/532a2f07-a3ad97a5f49049f824d9.js>; rel=preload; as=script
+  Link: </sj-log/sj-log.github.io/app-7ec19b46f12d9f6eb622.js>; rel=preload; as=script
+  Link: </sj-log/sj-log.github.io/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
+  Link: </sj-log/sj-log.github.io/cd95ea5cbd2c605f26db819f07999610c9ff4310-8941a9711b07ddb33b58.js>; rel=preload; as=script
+  Link: </sj-log/sj-log.github.io/643651a62fb35a9bb4f20061cb1f214a352d7976-88b26420e8d25b9044bb.js>; rel=preload; as=script
+  Link: </sj-log/sj-log.github.io/component---src-templates-post-template-js-909ef3c8d499e96eaaa6.js>; rel=preload; as=script
+  Link: </sj-log/sj-log.github.io/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </sj-log/sj-log.github.io/page-data/posts/How-to-solve-No-Xcode-or-CLT-version-detected-error/page-data.json>; rel=preload; as=fetch; crossorigin
+/sj-log/sj-log.github.io/pages/contacts/
+  Link: </sj-log/sj-log.github.io/webpack-runtime-4e89f18828ab1c85b9f7.js>; rel=preload; as=script
+  Link: </sj-log/sj-log.github.io/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
+  Link: </sj-log/sj-log.github.io/framework-c1d6d4288731cc2755e9.js>; rel=preload; as=script
+  Link: </sj-log/sj-log.github.io/532a2f07-a3ad97a5f49049f824d9.js>; rel=preload; as=script
+  Link: </sj-log/sj-log.github.io/app-7ec19b46f12d9f6eb622.js>; rel=preload; as=script
+  Link: </sj-log/sj-log.github.io/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
+  Link: </sj-log/sj-log.github.io/cd95ea5cbd2c605f26db819f07999610c9ff4310-8941a9711b07ddb33b58.js>; rel=preload; as=script
+  Link: </sj-log/sj-log.github.io/component---src-templates-page-template-js-c74a0e341a7a6c5575b7.js>; rel=preload; as=script
+  Link: </sj-log/sj-log.github.io/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </sj-log/sj-log.github.io/page-data/pages/contacts/page-data.json>; rel=preload; as=fetch; crossorigin
+/sj-log/sj-log.github.io/pages/about/
+  Link: </sj-log/sj-log.github.io/webpack-runtime-4e89f18828ab1c85b9f7.js>; rel=preload; as=script
+  Link: </sj-log/sj-log.github.io/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
+  Link: </sj-log/sj-log.github.io/framework-c1d6d4288731cc2755e9.js>; rel=preload; as=script
+  Link: </sj-log/sj-log.github.io/532a2f07-a3ad97a5f49049f824d9.js>; rel=preload; as=script
+  Link: </sj-log/sj-log.github.io/app-7ec19b46f12d9f6eb622.js>; rel=preload; as=script
+  Link: </sj-log/sj-log.github.io/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
+  Link: </sj-log/sj-log.github.io/cd95ea5cbd2c605f26db819f07999610c9ff4310-8941a9711b07ddb33b58.js>; rel=preload; as=script
+  Link: </sj-log/sj-log.github.io/component---src-templates-page-template-js-c74a0e341a7a6c5575b7.js>; rel=preload; as=script
+  Link: </sj-log/sj-log.github.io/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </sj-log/sj-log.github.io/page-data/pages/about/page-data.json>; rel=preload; as=fetch; crossorigin
+/sj-log/sj-log.github.io/tag/error
+  Link: </sj-log/sj-log.github.io/webpack-runtime-4e89f18828ab1c85b9f7.js>; rel=preload; as=script
+  Link: </sj-log/sj-log.github.io/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
+  Link: </sj-log/sj-log.github.io/framework-c1d6d4288731cc2755e9.js>; rel=preload; as=script
+  Link: </sj-log/sj-log.github.io/532a2f07-a3ad97a5f49049f824d9.js>; rel=preload; as=script
+  Link: </sj-log/sj-log.github.io/app-7ec19b46f12d9f6eb622.js>; rel=preload; as=script
+  Link: </sj-log/sj-log.github.io/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
+  Link: </sj-log/sj-log.github.io/cd95ea5cbd2c605f26db819f07999610c9ff4310-8941a9711b07ddb33b58.js>; rel=preload; as=script
+  Link: </sj-log/sj-log.github.io/643651a62fb35a9bb4f20061cb1f214a352d7976-88b26420e8d25b9044bb.js>; rel=preload; as=script
+  Link: </sj-log/sj-log.github.io/component---src-templates-tag-template-js-082ad3c605c79d2140a4.js>; rel=preload; as=script
+  Link: </sj-log/sj-log.github.io/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </sj-log/sj-log.github.io/page-data/tag/error/page-data.json>; rel=preload; as=fetch; crossorigin
+/sj-log/sj-log.github.io/tag/fix
+  Link: </sj-log/sj-log.github.io/webpack-runtime-4e89f18828ab1c85b9f7.js>; rel=preload; as=script
+  Link: </sj-log/sj-log.github.io/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
+  Link: </sj-log/sj-log.github.io/framework-c1d6d4288731cc2755e9.js>; rel=preload; as=script
+  Link: </sj-log/sj-log.github.io/532a2f07-a3ad97a5f49049f824d9.js>; rel=preload; as=script
+  Link: </sj-log/sj-log.github.io/app-7ec19b46f12d9f6eb622.js>; rel=preload; as=script
+  Link: </sj-log/sj-log.github.io/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
+  Link: </sj-log/sj-log.github.io/cd95ea5cbd2c605f26db819f07999610c9ff4310-8941a9711b07ddb33b58.js>; rel=preload; as=script
+  Link: </sj-log/sj-log.github.io/643651a62fb35a9bb4f20061cb1f214a352d7976-88b26420e8d25b9044bb.js>; rel=preload; as=script
+  Link: </sj-log/sj-log.github.io/component---src-templates-tag-template-js-082ad3c605c79d2140a4.js>; rel=preload; as=script
+  Link: </sj-log/sj-log.github.io/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </sj-log/sj-log.github.io/page-data/tag/fix/page-data.json>; rel=preload; as=fetch; crossorigin
+/sj-log/sj-log.github.io/category/coding
+  Link: </sj-log/sj-log.github.io/webpack-runtime-4e89f18828ab1c85b9f7.js>; rel=preload; as=script
+  Link: </sj-log/sj-log.github.io/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
+  Link: </sj-log/sj-log.github.io/framework-c1d6d4288731cc2755e9.js>; rel=preload; as=script
+  Link: </sj-log/sj-log.github.io/532a2f07-a3ad97a5f49049f824d9.js>; rel=preload; as=script
+  Link: </sj-log/sj-log.github.io/app-7ec19b46f12d9f6eb622.js>; rel=preload; as=script
+  Link: </sj-log/sj-log.github.io/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
+  Link: </sj-log/sj-log.github.io/cd95ea5cbd2c605f26db819f07999610c9ff4310-8941a9711b07ddb33b58.js>; rel=preload; as=script
+  Link: </sj-log/sj-log.github.io/643651a62fb35a9bb4f20061cb1f214a352d7976-88b26420e8d25b9044bb.js>; rel=preload; as=script
+  Link: </sj-log/sj-log.github.io/component---src-templates-category-template-js-24cb77a82e33bd885dc6.js>; rel=preload; as=script
+  Link: </sj-log/sj-log.github.io/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </sj-log/sj-log.github.io/page-data/category/coding/page-data.json>; rel=preload; as=fetch; crossorigin
+/sj-log/sj-log.github.io/
+  Link: </sj-log/sj-log.github.io/webpack-runtime-4e89f18828ab1c85b9f7.js>; rel=preload; as=script
+  Link: </sj-log/sj-log.github.io/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
+  Link: </sj-log/sj-log.github.io/framework-c1d6d4288731cc2755e9.js>; rel=preload; as=script
+  Link: </sj-log/sj-log.github.io/532a2f07-a3ad97a5f49049f824d9.js>; rel=preload; as=script
+  Link: </sj-log/sj-log.github.io/app-7ec19b46f12d9f6eb622.js>; rel=preload; as=script
+  Link: </sj-log/sj-log.github.io/styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
+  Link: </sj-log/sj-log.github.io/cd95ea5cbd2c605f26db819f07999610c9ff4310-8941a9711b07ddb33b58.js>; rel=preload; as=script
+  Link: </sj-log/sj-log.github.io/643651a62fb35a9bb4f20061cb1f214a352d7976-88b26420e8d25b9044bb.js>; rel=preload; as=script
+  Link: </sj-log/sj-log.github.io/component---src-templates-index-template-js-d417b387af9f10b98a44.js>; rel=preload; as=script
+  Link: </sj-log/sj-log.github.io/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </sj-log/sj-log.github.io/page-data/index/page-data.json>; rel=preload; as=fetch; crossorigin
