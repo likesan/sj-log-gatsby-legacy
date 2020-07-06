@@ -160,17 +160,6 @@
   Link: </component---src-templates-post-template-js-08f705be35fbf83d0b2f.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/posts/퍼머컬처-지구를-구할-농법일까/page-data.json>; rel=preload; as=fetch; crossorigin
-/pages/about/
-  Link: </webpack-runtime-7f041a61f643697034c2.js>; rel=preload; as=script
-  Link: </styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
-  Link: </framework-819067737a84e3335151.js>; rel=preload; as=script
-  Link: </532a2f07-69381b4163c84384ce66.js>; rel=preload; as=script
-  Link: </app-2531ef71da75034618d0.js>; rel=preload; as=script
-  Link: </styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
-  Link: </cd95ea5cbd2c605f26db819f07999610c9ff4310-67cc4eab79f2c2e32c97.js>; rel=preload; as=script
-  Link: </component---src-templates-page-template-js-1e2a0255c5fee26699e0.js>; rel=preload; as=script
-  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </page-data/pages/about/page-data.json>; rel=preload; as=fetch; crossorigin
 /posts/Subconscious-is-the-handle-to-change-our-life-destination
   Link: </webpack-runtime-7f041a61f643697034c2.js>; rel=preload; as=script
   Link: </styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
@@ -195,6 +184,17 @@
   Link: </component---src-templates-post-template-js-08f705be35fbf83d0b2f.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/posts/어떤-SNS-플랫폼을-어떻게-써야할까-by-Gary-Vee/page-data.json>; rel=preload; as=fetch; crossorigin
+/pages/about/
+  Link: </webpack-runtime-7f041a61f643697034c2.js>; rel=preload; as=script
+  Link: </styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
+  Link: </framework-819067737a84e3335151.js>; rel=preload; as=script
+  Link: </532a2f07-69381b4163c84384ce66.js>; rel=preload; as=script
+  Link: </app-2531ef71da75034618d0.js>; rel=preload; as=script
+  Link: </styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
+  Link: </cd95ea5cbd2c605f26db819f07999610c9ff4310-67cc4eab79f2c2e32c97.js>; rel=preload; as=script
+  Link: </component---src-templates-page-template-js-1e2a0255c5fee26699e0.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/pages/about/page-data.json>; rel=preload; as=fetch; crossorigin
 /tag/blog
   Link: </webpack-runtime-7f041a61f643697034c2.js>; rel=preload; as=script
   Link: </styles-89fd2ae28bdf06750a71.js>; rel=preload; as=script
