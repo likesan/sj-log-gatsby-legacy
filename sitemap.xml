@@ -2,12 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url> <loc>https://sj-log.github.io/tags</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://sj-log.github.io/categories</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://sj-log.github.io/posts/How-to-solve-No-Xcode-or-CLT-version-detected-error</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://sj-log.github.io/posts/Blog-made-by-gatsby-in-5H-45-Mins</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sj-log.github.io/posts/How-to-solve-No-Xcode-or-CLT-version-detected-error</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://sj-log.github.io/posts/Why-being-gratitude-is-needed</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://sj-log.github.io/posts/Book-review-Art-of-Money-Getting</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://sj-log.github.io/posts/Subconscious-is-the-handle-to-change-our-life-destination</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://sj-log.github.io/pages/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://sj-log.github.io/posts/Subconscious-is-the-handle-to-change-our-life-destination.</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://sj-log.github.io/posts/퍼머컬처-지구를-구할-농법일까</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://sj-log.github.io/posts/어떤-SNS-플랫폼을-어떻게-써야할까-by-Gary-Vee</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://sj-log.github.io/tag/blog</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
