@@ -1,13 +1,12 @@
 ---
 new_page_extension: md
 auto_deploy: false
-admin_path: 
+admin_path: ''
 webhook_url: 
 sections:
 - type: document
   path: https://github.com/sj-log/sj-log.github.io/tree/gh-pages/pages
   label: Page
-  match: "**/*"
 - type: document
   path: https://github.com/sj-log/sj-log.github.io/tree/gh-pages/posts
   label: Post
