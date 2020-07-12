@@ -5,9 +5,12 @@ admin_path:
 webhook_url: 
 sections:
 - type: document
-  path: https://github.com/sj-log/sj-log.github.io
-  label: Post
+  path: https://github.com/sj-log/sj-log.github.io/tree/gh-pages/pages
+  label: Page
   match: "**/*"
+- type: document
+  path: https://github.com/sj-log/sj-log.github.io/tree/gh-pages/posts
+  label: Post
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
